@@ -1,3 +1,4 @@
+### Moved to https://github.com/sitiom-misc/iacdiscordnotifs
 # IacDiscordNotifs
 
 Forward iACADEMY NEO LMS Notifications to a Discord Webhook.
